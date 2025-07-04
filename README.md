@@ -1,1 +1,1 @@
-# coinmarketcap
+# Simepele coin market, met api van gecko :P
