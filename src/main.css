@@ -2,3 +2,13 @@ body {
   background-color: #141414;
   color: #fff;
 }
+
+.knopje {
+  background-color: #415d88;
+  color: rgb(255, 255, 255);
+  border: white 1px solid;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: finger;
+  font: bold 16px Arial, sans-serif;
+}
